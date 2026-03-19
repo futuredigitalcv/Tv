@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports",Fox Sports 1 US
+https://m3u.iranvids.com/fox-sport-01/output.m3u8
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/640px-FS2_logo_2015.svg.png" group-title="Sports",Fox Sports 2 US
+https://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYXdmfRLlhenhYBmsMFhiMIuo54k_65obyJQ&s" group-title="News",Fox News Channel
+https://fl3.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkKVArsOp1LRK3hg6WWdfob1Rr6y_n5Zv5Q&s" group-title="Weather",The Weather Channel
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/600px-TNT_%28TV_Channel%29.svg.png" group-title="General",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/USA-Network-Symbol-500x281.png" group-title="General",USA Network
+https://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NBC_Peacock_1986.svg/800px-NBC_Peacock_1986.svg.png" group-title="General",NBC
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="General",ABC
+https://fl1.moveonjoy.com/ABC_EAST/mono.m3u8
+#EXTINF:-1 tvg-id="WTSPDT1.us" tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Logo.png" group-title="General",CBS
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://shop.cbssports.com/_next/image?url=https%3A%2F%2Fs3.us-west-2.amazonaws.com%2Fprod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p%2FCBS-Sports-Logo-1731106414735.png&w=640&q=75" group-title="Sports",CBS Sports
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://brandslogos.com/wp-content/uploads/thumbs/cnn-logo-2.png" group-title="News",CNN
+https://fl3.moveonjoy.com/CNN/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="Sports",ESPN 2
+http://fortv.cc:8080/live/cQnq6G/652882/2210.m3u8
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=NFLNETWORK_HD&productId=SPOD&sourceType=colorHybrid" group-title="Sports",NFL Network
+https://a1xs.vip/40000032
